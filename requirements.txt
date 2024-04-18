@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+tqdm
+nltk
+scikit-learn
+imbalanced-learn
+plotly
+pickle-mixin
