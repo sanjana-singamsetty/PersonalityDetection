@@ -25,3 +25,5 @@ Usage:
 3. Follow the instructions in the documentation to run the scripts and reproduce the results.
 
 
+Explore the Personality Explorer: [Personality Explorer](https://huggingface.co/spaces/sanjana04/Personality-Explorer)
+
